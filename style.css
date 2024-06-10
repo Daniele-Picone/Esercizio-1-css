@@ -1,0 +1,24 @@
+*{
+ font-family: "Roboto", sans-serif;
+ font-weight: 400;
+ font-style: normal;  
+}
+h1,h2,h3{
+font-family: "Electrolize", sans-serif;
+font-weight: 800;
+font-style: normal;
+color: red;
+}
+.article{
+      background-color: aqua;
+     
+}
+.article:hover{
+      color: white;
+      background-color: black;
+}
+.footer{
+      color: aliceblue;
+      background-image: url(./aulab3.jpg);
+
+}
